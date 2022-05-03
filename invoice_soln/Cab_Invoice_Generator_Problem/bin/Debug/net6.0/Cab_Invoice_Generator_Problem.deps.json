@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cab_Invoice_Generator_Problem/1.0.0": {
+        "runtime": {
+          "Cab_Invoice_Generator_Problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cab_Invoice_Generator_Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

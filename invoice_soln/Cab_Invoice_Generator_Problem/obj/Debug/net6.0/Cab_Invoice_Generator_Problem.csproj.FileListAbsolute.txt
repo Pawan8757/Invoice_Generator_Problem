@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\Cab_Invoice_Generator_Problem.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\Cab_Invoice_Generator_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\Cab_Invoice_Generator_Problem.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\Cab_Invoice_Generator_Problem.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\Cab_Invoice_Generator_Problem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\bin\Debug\net6.0\Cab_Invoice_Generator_Problem.exe
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\bin\Debug\net6.0\Cab_Invoice_Generator_Problem.deps.json
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\bin\Debug\net6.0\Cab_Invoice_Generator_Problem.runtimeconfig.json
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\bin\Debug\net6.0\Cab_Invoice_Generator_Problem.dll
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\bin\Debug\net6.0\Cab_Invoice_Generator_Problem.pdb
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\Cab_Invoice_Generator_Problem.dll
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\refint\Cab_Invoice_Generator_Problem.dll
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\Cab_Invoice_Generator_Problem.pdb
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\Cab_Invoice_Generator_Problem.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Being_Ready\Cab_Invoice_Generator_Problem\Cab_Invoice_Generator_Problem\obj\Debug\net6.0\ref\Cab_Invoice_Generator_Problem.dll
